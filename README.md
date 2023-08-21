@@ -11,8 +11,6 @@
 -  Run 'npm start'.
 -  Enjoy :)
 
-### Deployment link - https://i-pod-using-react-js.vercel.app/
-
 ## Available Scripts
 
 In the project directory, you can run:
